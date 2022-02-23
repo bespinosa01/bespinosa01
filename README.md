@@ -1,6 +1,4 @@
-###  Welcome!
-
-<h2> My name is Brian! <a href="URL_REDIRECT" target="blank"><img align="center" src="https://cdn-icons.flaticon.com/png/512/4260/premium/4260895.png?token=exp=1645592500~hmac=d09f223942776c07cbebafff5c9ea1bd" height="45" /></a> </h2>
+###  Welcome! <a href="URL_REDIRECT" target="blank"><img align="center" src="https://cdn-icons.flaticon.com/png/512/4260/premium/4260895.png?token=exp=1645592500~hmac=d09f223942776c07cbebafff5c9ea1bd" height="45" /></a> </h2>
 <p><em>Software Engineer at <a href="https://www.radiateconsulting.coop/north-carolina-tech-coop">Radiate Consulting North Carolina</a>
 <!-- </br>Developer Consultant at <a href="https://codethedream.org/">Code The Dream</a> -->
 </em></p>
