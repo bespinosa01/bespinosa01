@@ -9,7 +9,7 @@
 
  <img align="center" src="https://github.com/bespinosa01/bespinosa01/blob/main/assets/octo-me.png" height="200" /> 
  <p>
- For the past 5 years my focus as a Software Engineer has been on Web-Development. I started out as a Front-End Engineer, but my curiosity and (Nodejs) eventually led me to explore the backend and now I consider myself a Full-Stack Developer.
+ For the past 5 years my focus as a Software Engineer has been on Mobile and Web-Development. I started out as a Front-End Engineer, but my curiosity and (Nodejs) eventually led me to explore the backend and now I consider myself a Full-Stack Developer.
 </p>
 <p>
  My github stats below will reveal that javascript is my bread and butter, but I find myself exploring and tinkering with anything that catches my interest. 
