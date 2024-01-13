@@ -67,14 +67,13 @@ Sunday                   3238 commits        █░░░░░░░░░░�
 🕑︎ Time Zone: America/Chicago
 
 💬 Programming Languages: 
-JavaScript               28 mins             █████████████████████████   98.02 % 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.98 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  29 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      29 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -90,7 +89,7 @@ Python                   2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 12/01/2024 19:00:32 UTC
+ Last Updated on 13/01/2024 18:54:51 UTC
 <!--END_SECTION:waka-->
 
 
