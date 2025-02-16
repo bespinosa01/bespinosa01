@@ -24,6 +24,8 @@
 
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C728%20hrs%2017%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
@@ -93,7 +95,7 @@ Ruby                     2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 15/02/2025 19:06:19 UTC
+ Last Updated on 16/02/2025 19:08:30 UTC
 <!--END_SECTION:waka-->
 
 
